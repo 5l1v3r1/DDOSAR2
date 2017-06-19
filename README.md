@@ -12,6 +12,9 @@ git clone https://github.com/Oseid/DDOSAR2.git
 cd DDOSAR2/
 
 
+chmod +x DDOSAR2
+
+
 ./DDOSAR2 victim website or ip and port 80 
 
 for example 
