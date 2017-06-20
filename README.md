@@ -7,7 +7,7 @@ this tool for  distributed denial of service attack(DDOS ATTACK)
 git clone https://github.com/Oseid/DDOSAR2.git
 
 
-# how useing tool 
+# how using tool 
 
 cd DDOSAR2/
 
