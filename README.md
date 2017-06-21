@@ -30,7 +30,7 @@ or
 
 
 
-# that's all 
+#  this is all
 thanks you for using
 
 Good Day...:)
