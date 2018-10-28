@@ -13,7 +13,7 @@
 int make_socket(char *host, char *port) {
 	struct addrinfo hints, *servinfo, *p;
 	int sock, r;
-//	fprintf(stderr, "[Connecting -> %s:%s\n", host, port);
+//	fprintf(stderr, "\033[1;31mConnecting: (=>\033[1;37m%s:\033[1;33m%s~TCP\033[1;31m<=)\033[1;33m ...!\n", host, port);
 	memset(&hints, 0, sizeof(hints));
 	hints.ai_family = AF_UNSPEC;
 	hints.ai_socktype = SOCK_STREAM;
@@ -96,4 +96,4 @@ int main(int argc, char **argv) {
 	getc(stdin);
 	return 0;
 }
-
+// That's All

@@ -1,37 +1,24 @@
 # DDOSAR2
-this tool for  distributed denial of service attack(DDOS ATTACK)
+ * A C Script: For distributed denial of service attack(DDOS ATTACK)
+ * strong Attack Script
+
+# INSTALL 
+
+1 - git clone https://github.com/Oseid/DDOSAR2.git
+2 - cd DDOSAR2/
+3 - chmod +x ddos.c install.sh
+4 - ./install.sh
+
+# Usage:
+ 1 * cd DDOSAR2/
+ 2 * ./ddosar <targetIP> <PORT>
+
+  - Example:
+     ./ddosar 172.217.17.46 80
 
 
-# how you install the tool 
-
-git clone https://github.com/Oseid/DDOSAR2.git
-
-
-# how using tool 
-
-cd DDOSAR2/
-
-
-chmod +x DDOSAR2
-
-
-./DDOSAR2 victim website or ip and port 80 
-
-for example 
-
-
-./DDOSAR2 www.google.com 80 
-
-
-or 
-
-
-./DDOSAR2 173.194.44.81 80 
-
-
-
-#  this is all
-thanks you for using
-
-Good Day...:)
+# That's All:)
+ - This Script By Oseid Aldary
+ - Thanks For using
+ - Have A Nice Day, GoodBye :)
 
