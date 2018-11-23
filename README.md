@@ -1,5 +1,5 @@
 # DDOSAR2:
- * A C Script: For distributed denial of service attack(DDOS ATTACK)
+ * A C Script: For  denial of service attack(DOS ATTACK)
  * strong Attack Script
 
 # INSTALL:
